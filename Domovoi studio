@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>Domovoi studio</title>
+
+		<style type="text/css">
+		/* CSS */
+		</style>
+	</head>
+
+	<body>
+		<!-- HTML -->
+		<p>Bienvenue au Domovoi studio</p>
+		<br>
+		<p> Ce site et en création une version prototypé sera déposer le 20 mai , j'ai hate de vous faire découvrir mes merveilleux projet</p>
+	</body>
+
+	<script>
+		//JAVASCRIPT
+	</script>
+</html>
